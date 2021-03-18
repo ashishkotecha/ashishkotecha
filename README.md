@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Data Science.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking for Open-Source Project contributions.
+- 🧠 I'm extremely brilliant.
 - 📫 How to reach me: 
 
 
