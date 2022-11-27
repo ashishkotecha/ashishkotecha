@@ -1,4 +1,4 @@
-### Hi there 👋, I'm in Final Year Undergraduate student pursuing B-Tech in AI (India)!
+### Hi there 👋, I'm a Final Year Undergraduate student pursuing B-Tech in AI (India)!
 
 - 🔭 I’m currently working on Data Science.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
